@@ -1,6 +1,6 @@
 ## Next.js App Router Course - Starter
 
-### Start from Chapter 9 - Streaming
+### Start from Chapter 10 - Partial Prerendering
 
 - Chapter 7 - learned about SQL fetching in the /app/lib/data.ts file there are sample queries to the DB, don't need an API for this
 
